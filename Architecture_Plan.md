@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 
-A MacBook landing page built in React, designed as a product engineering demo for Google recruiters.  
+A MacBook landing page built in React, designed as a product engineering.  
 Focus areas: analytics-driven personalization, scalable architecture, and clean modular design.
 
 ---
