@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+import NavBar from "./components/NavBar";
 
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline text-indigo-700">
-    Hello world!
-  </h1>
-  )
-}
+    <main>
+      <NavBar />
+    </main>
+  );
+};
 
-export default App
+export default App;
