@@ -60,8 +60,13 @@ For a detailed engineering roadmap and future plans, see:
 
 ## 📫 Contact
 
-**📧 Email:** [pbsinnur@gmail.com](mailto:pbsinnur@gmail.com)  
-**💼 LinkedIn:** [Praveen Sinnur](https://www.linkedin.com/in/praveen-sinnur/)
+<a href="mailto:pbsinnur@gmail.com?subject=Let's%20Get%20In%20Touch" target="_blank">
+  📧 Email: pbsinnur@gmail.com
+</a>  
+<br>
+<a href="https://www.linkedin.com/in/praveen-sinnur/" target="_blank">
+  💼 LinkedIn: Praveen Sinnur
+</a>
 
 ---
 
