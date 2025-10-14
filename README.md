@@ -1,17 +1,75 @@
-# React + Vite
+# 💻 MacBook Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_A thoughtful recreation of Apple’s MacBook landing experience, built as a product engineering demo._
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Overview
 
-## React Compiler
+**MacBook Landing Page** is more than a visual clone — it’s an exploration of how design, data, and engineering can come together to tell a story.  
+Built with **React**, this project focuses on clarity, performance, and maintainability while laying the groundwork for future personalization and analytics-driven insights.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# mackbook
+- **React** — core framework
+- **Tailwind CSS** — clean and consistent styling
+- **Google Analytics 4** + **Microsoft Clarity** — user behavior and interaction tracking
+- **Vercel** — deployment and performance monitoring
+- **GitHub** — version control and future modular repo setup
+
+---
+
+## 🧩 Key Concepts
+
+- Modular architecture prepared for future expansion
+- Event-based user analytics (scroll depth, interaction zones, CTA intent)
+- Config-driven layout design for dynamic personalization
+- Clear documentation and structure mirroring enterprise-grade practices
+
+---
+
+## 🧭 Roadmap
+
+| Phase                        | Focus                                     | Status      |
+| ---------------------------- | ----------------------------------------- | ----------- |
+| **1. Base Build**            | Static React app with assets in `public/` | ✅ Complete |
+| **2. Analytics Integration** | GA4 + Clarity tracking                    | 🔜 Planned  |
+| **3. Modularization**        | Split UI kit, analytics, and app          | 🔜 Planned  |
+| **4. Personalization Layer** | Config + behavior-based content           | 🔜 Planned  |
+| **5. Observability & Docs**  | Web Vitals + documentation                | 🔜 Planned  |
+
+---
+
+## 🪶 Design Philosophy
+
+> “Simplicity, clarity, and purpose — in code and beyond.”
+
+Every section, line of code, and design choice is intentional.  
+The goal: to make technology feel effortless.
+
+---
+
+## 📘 Documentation
+
+For a detailed engineering roadmap and future plans, see:  
+➡️ [Architecture_Plan.md](./Architecture_Plan.md)
+
+---
+
+## 📫 Contact
+
+<a href="mailto:pbsinnur@gmail.com?subject=Let's%20Get%20In%20Touch" target="_blank">
+  📧 Email: pbsinnur@gmail.com
+</a>  
+<br>
+<a href="https://www.linkedin.com/in/praveen-sinnur/" target="_blank">
+  💼 LinkedIn: Praveen Sinnur
+</a>
+
+---
+
+<p align="center">
+  <sub>Built with precision and curiosity — by Praveen.</sub>
+</p>
