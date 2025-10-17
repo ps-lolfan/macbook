@@ -8,9 +8,17 @@ import Fetaures from "./components/Fetaures";
 import Footer from "./components/Footer";
 import Performance from "./components/Performance";
 
+import { useEffect } from "react";
+
+import ReactGA from "react-ga4";
+
 gsap.registerPlugin(ScrollTrigger);
 
 const App = () => {
+  useEffect(() => {
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
+  }, []);
+
   return (
     <main>
       <NavBar />
