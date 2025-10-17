@@ -126,6 +126,10 @@ const footerLinks = [
   { label: "Sales Policy", link: "#" },
   { label: "Legal", link: "#" },
   { label: "Site Map", link: "#" },
+  {
+    label: "Meet Praveen",
+    link: "https://www.linkedin.com/in/praveen-sinnur/",
+  },
 ];
 
 export {
