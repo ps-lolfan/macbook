@@ -3,10 +3,12 @@ import Hero from "./components/Hero";
 import ProductViewer from "./components/ProductViewer";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
+
 import Showcase from "./components/ShowCase";
 import Fetaures from "./components/Fetaures";
 import Footer from "./components/Footer";
 import Performance from "./components/Performance";
+import Highlights from "./components/Highlights";
 
 import { useEffect } from "react";
 
@@ -27,6 +29,7 @@ const App = () => {
       <Showcase />
       <Performance />
       <Fetaures />
+      <Highlights />
       <Footer />
     </main>
   );
