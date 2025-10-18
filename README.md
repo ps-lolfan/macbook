@@ -1,6 +1,9 @@
 # 💻 MacBook Landing Page
 
-_A thoughtful recreation of Apple’s MacBook landing experience, built as a product engineering demo._
+_
+About this project
+Built as a demonstration of complete frontend engineering workflow: React + Tailwind + Vite, Google Analytics integration, Vercel CI/CD deployment, and Docker containerization for local consistency.
+Upcoming extensions: modular asset repository and cross‑project design system._
 
 ---
 
