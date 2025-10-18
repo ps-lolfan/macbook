@@ -4,6 +4,9 @@ About this project
 Built as a demonstration of complete frontend engineering workflow: React + Tailwind + Vite, Google Analytics integration, Vercel CI/CD deployment, and Docker containerization for local consistency.
 Upcoming extensions: modular asset repository and cross‑project design system.
 
+<a href="https://macbook-xi.vercel.app/" target="_blank">
+  Live Demo
+</a>
 ---
 
 ## 🧠 Overview
