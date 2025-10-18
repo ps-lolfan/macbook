@@ -4,7 +4,7 @@ import ProductViewer from "./components/ProductViewer";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 
-import Showcase from "./components/ShowCase";
+import Showcase from "./components/Showcase";
 import Fetaures from "./components/Fetaures";
 import Footer from "./components/Footer";
 import Performance from "./components/Performance";
